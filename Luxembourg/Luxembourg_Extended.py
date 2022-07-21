@@ -10,7 +10,7 @@ import os.path
 import streamlit as st
 from plotly.graph_objects import Layout
 from pathlib import Path
-
+import openpyxl
 
 st.set_page_config(layout="wide", page_title="Luxembourg Real Estate", page_icon=":house:")
 # Use treat_luxcity to clean issues identified through previous exploration, such as use of asterisk to symbolize NA values, data types that didn't match (numbers as strings, for example) and spelling errors.
