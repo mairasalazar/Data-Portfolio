@@ -1,0 +1,46 @@
+﻿DATAFLOW,VARIABLES: Variables,FREQ: Frequency,TIME_PERIOD: Time period,OBS_VALUE,NOTE_YEAR_2: Note year 2,NOTE_YEAR_1: Note year 1,NOTE_VARIABLES_2: Note Variables 2,NOTE_VARIABLES_1: Note Variables 1,OBS_STATUS: Observation status,DECIMALS: Decimals
+LU1:DF_D4302(1.0),SL04: Gross production: specialised construction activities (completion and technical installation),A: Annual,2015,100,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL04: Gross production: specialised construction activities (completion and technical installation),A: Annual,2016,102.08438901332,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL04: Gross production: specialised construction activities (completion and technical installation),A: Annual,2017,104.836606569069,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL04: Gross production: specialised construction activities (completion and technical installation),A: Annual,2018,108.489850207182,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL04: Gross production: specialised construction activities (completion and technical installation),A: Annual,2019,110.34452339286,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL03: Gross production: construction of buildings and civil engineering,A: Annual,2015,100.006257999895,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL03: Gross production: construction of buildings and civil engineering,A: Annual,2016,104.712855474726,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL03: Gross production: construction of buildings and civil engineering,A: Annual,2017,104.141134371602,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL03: Gross production: construction of buildings and civil engineering,A: Annual,2018,109.341625169191,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL03: Gross production: construction of buildings and civil engineering,A: Annual,2019,109.419123162225,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L01: Working day adjusted production: total construction,A: Annual,2015,100,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L01: Working day adjusted production: total construction,A: Annual,2016,103.3,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L01: Working day adjusted production: total construction,A: Annual,2017,104.5,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L01: Working day adjusted production: total construction,A: Annual,2018,108.9,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L01: Working day adjusted production: total construction,A: Annual,2019,109.9,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL01: Working day adjusted production: construction of buildings and civil engineering,A: Annual,2015,100.00000189626,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL01: Working day adjusted production: construction of buildings and civil engineering,A: Annual,2016,104.706304939902,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL01: Working day adjusted production: construction of buildings and civil engineering,A: Annual,2017,104.134619602004,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL01: Working day adjusted production: construction of buildings and civil engineering,A: Annual,2018,109.334785071858,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL01: Working day adjusted production: construction of buildings and civil engineering,A: Annual,2019,109.412278216841,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL02: Workings day adjusted production: specialised construction activities (completion and technical installation),A: Annual,2015,100,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL02: Workings day adjusted production: specialised construction activities (completion and technical installation),A: Annual,2016,102.08438901332,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL02: Workings day adjusted production: specialised construction activities (completion and technical installation),A: Annual,2017,104.836606569069,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL02: Workings day adjusted production: specialised construction activities (completion and technical installation),A: Annual,2018,108.489850207182,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),SL02: Workings day adjusted production: specialised construction activities (completion and technical installation),A: Annual,2019,110.34452339286,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L02: Gross production: total construction,A: Annual,2015,100.002951254932,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L02: Gross production: total construction,A: Annual,2016,103.323966312371,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L02: Gross production: total construction,A: Annual,2017,104.508623860993,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L02: Gross production: total construction,A: Annual,2018,108.891544853969,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L02: Gross production: total construction,A: Annual,2019,109.908107279025,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L03: Number of wage earners,A: Annual,2015,100,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L03: Number of wage earners,A: Annual,2016,101.555792175754,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L03: Number of wage earners,A: Annual,2017,104.809827456597,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L03: Number of wage earners,A: Annual,2018,107.094266803669,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L03: Number of wage earners,A: Annual,2019,109.652816728774,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L04: Hours worked,A: Annual,2015,100,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L04: Hours worked,A: Annual,2016,103.252393810942,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L04: Hours worked,A: Annual,2017,104.606710598971,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L04: Hours worked,A: Annual,2018,108.70990752064,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L04: Hours worked,A: Annual,2019,110.267784395668,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L05: Gross earnings,A: Annual,2015,100,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L05: Gross earnings,A: Annual,2016,103.162332131996,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L05: Gross earnings,A: Annual,2017,109.831390863408,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L05: Gross earnings,A: Annual,2018,114.702096096253,,,,spec: Base 100 in 2015,,1: One
+LU1:DF_D4302(1.0),L05: Gross earnings,A: Annual,2019,119.916068976632,,,,spec: Base 100 in 2015,,1: One

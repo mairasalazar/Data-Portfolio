@@ -1,0 +1,385 @@
+﻿DATAFLOW,SPECIFICATION: Specification,FREQ: Frequency,TIME_PERIOD: Time period,OBS_VALUE,NOTE_YEAR_2: Note year 2,NOTE_YEAR_1: Note year 1,NOTE_SPECIFICATION_2: Note specification 2,NOTE_SPECIFICATION_1: Note specification 1,OBS_STATUS: Observation status,DECIMALS: Decimals
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1974,23.65,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1975,40.98,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1976,30.71,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1977,21.84,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1978,40.93,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1979,50.27,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1980,25.24,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1981,43.73,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1982,39.46,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1983,29.1,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1984,21.86,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1985,8.21,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1986,11.16,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1987,10.14,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1988,16.01,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1989,30.49,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1990,73.48,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1991,52.18,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1992,158.26,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1993,230.66,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1994,108.23,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1995,82.75,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1996,77.96,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1997,33.86,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1998,179.33,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,1999,116.973141554639,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2000,123.540361797915,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2001,230.055075322755,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2002,256.760299,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2003,346.111424,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2004,89.113466,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2005,119.791778,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2006,29.332558,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2007,111.864099,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2008,244.9348,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2009,292.631,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2010,180.949713,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2011,107.983403,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2012,81.509725,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2013,64.54,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2014,37,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2015,35.98525,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2016,26.71288903,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2017,7.461,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2018,121.19316368,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2019,89.51055,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2020,291.628098,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL03: Local authorities,A: Annual,2021,235,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1974,29.05,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1975,29.33,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1976,45.39,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1977,45.69,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1978,46.63,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1979,43.8,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1980,62.82,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1981,50.52,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1982,44.67,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1983,53.79,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1984,49.33,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1985,45.49,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1986,103.74,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1987,87.21,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1988,134.18,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1989,178.19,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1990,313.59,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1991,199.95,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1992,175.78,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1993,168.17,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1994,204.66,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1995,251.84,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1996,134.63,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1997,130.52,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1998,196.48,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,1999,364.83769199131,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2000,367.055292197451,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2001,511.487207118493,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2002,450.317916,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2003,685.504409,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2004,507.038462,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2005,576.053415,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2006,758.593639,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2007,452.256551,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2008,581.074161,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2009,597.767403,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2010,552.00278139,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2011,398.96248451,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2012,408.13755957,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2013,774.69,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2014,790.81,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2015,731.20018923,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2016,722.71676719,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2017,1285.59412357,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2018,1212.04580146,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2019,1103.93558796,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2020,1248.68814753935,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL02: Non residential sector,A: Annual,2021,1619,,,,,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1974,144.72,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1975,167.55,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1976,217.28,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1977,226.05,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1978,281.11,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1979,330.1,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1980,323.72,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1981,296.53,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1982,290.01,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1983,284.9,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1984,362.52,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1985,348.91,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1986,472.93,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1987,549.7,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1988,712.62,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1989,943.11,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1990,1292.49,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1991,1357.86,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1992,1458.68,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1993,1393.71,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1994,1361.83,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1995,1450.47,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1996,1386.25,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1997,1431.91,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1998,1896.21,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,1999,2175.47101112714,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2000,2317.93378623677,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2001,2734.35273436636,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2002,3053.40078416828,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2003,4023.11017412829,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2004,4219.531541,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2005,4798.209607,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2006,5280.150452,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2007,5457.693794,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2008,5107.758979,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2009,5488.275235,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2010,5914.48120080958,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2011,5685.72961977,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2012,6165.08897573,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2013,5857.17,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2014,6717.94,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2015,7466.31342561734,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2016,8141.11851746,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2017,8881.70380666,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2018,10477.97481617,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2019,11169.51440482,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2020,12625,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),L01: Total loans,A: Annual,2021,12511,,,"L01: Total of new loans granted during the period. Mortgage credit control has been abolished on 1 october 1975. The table does not include loans granted by institutions or bodies other than credit institutions (for instance: """"Caisse nationale d'assurance pension""""). Definitions:Loans",,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1974,144.17,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1975,167.08,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1976,210.61,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1977,224.24,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1978,272.78,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1979,326.6,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1980,321.54,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1981,295.76,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1982,288.6,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1983,284.41,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1984,361.55,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1985,347.57,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1986,471.74,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1987,547.62,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1988,708.38,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1989,935.15,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1990,1289.12,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1991,1351.61,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1992,1416.76,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1993,1389.59,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1994,1352.93,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1995,1432.18,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1996,1375.59,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1997,1427.79,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1998,1859.1,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,1999,2113.04923357892,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2000,2170.28146683705,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2001,2647.98900200158,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2002,3011.15517716828,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2003,3791.19959612829,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2004,3985.757834,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2005,4699.94627,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2006,5162.202891,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2007,5233.018577,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2008,4804.799602,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2009,5345.949581,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2010,5827.56083479,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2011,5571.89349284,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2012,6012.39708962,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2013,5657.52,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2014,6497.15,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2015,7114.48048071,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2016,7883.70057367,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2017,8543.34458286,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2018,10013.1767001,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2019,10600.6223559,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2020,12225.7177473893,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL01: Residents,A: Annual,2021,12232.2722608579,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1974,0.55,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1975,0.47,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1976,6.67,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1977,1.81,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1978,8.33,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1979,3.5,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1980,2.18,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1981,0.77,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1982,1.41,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1983,0.5,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1984,0.97,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1985,1.34,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1986,1.19,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1987,2.08,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1988,4.24,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1989,7.96,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1990,3.37,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1991,6.25,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1992,41.92,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1993,4.12,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1994,8.9,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1995,18.29,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1996,10.66,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1997,4.12,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1998,37.11,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,1999,62.4217775482165,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2000,147.652319399721,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2001,86.3637323647828,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2002,42.245607,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2003,231.910578,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2004,233.773707,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2005,98.263337,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2006,117.947561,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2007,224.675217,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2008,302.959377,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2009,142.325654,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2010,86.92036601958,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2011,113.83612693,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2012,152.69188611,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2013,199.66,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2014,220.78,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2015,351.83294490734,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2016,257.41794379,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2017,338.3592238,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2018,464.79811607,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2019,568.89204892,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2020,400,,,,,,0: Zero
+LU1:DF_D4201(1.0),SL02: Non residents,A: Annual,2021,278,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1974,91.47,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1975,96.78,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1976,134.51,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1977,156.72,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1978,185.23,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1979,232.52,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1980,233.49,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1981,201.51,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1982,204.46,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1983,201.51,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1984,290.36,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1985,293.88,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1986,356.84,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1987,450.27,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1988,558.18,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1989,726.48,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1990,902.06,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1991,1099.48,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1992,1082.72,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1993,990.76,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1994,1040.04,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1995,1097.6,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1996,1162.99,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1997,1263.41,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1998,1483.3,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,1999,1631.23840003297,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2000,1679.68581284169,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2001,1906.44671956033,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2002,2304.07696216828,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2003,2759.58376312829,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2004,3389.605906,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2005,4004.101077,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2006,4374.276694,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2007,4668.897927,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2008,3978.790641,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2009,4455.551178,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2010,5094.6083404,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2011,5064.94760533,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2012,5522.74980505,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2013,4817.1,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2014,5693.74,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2015,6347.29504148,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2016,7134.27091745,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2017,7250.28945929,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2018,8679.93773496,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2019,9407.17621794,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2020,10685.40150185,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSL01: Residential sector,A: Annual,2021,10377.78528849,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1974,,,,,,l: Not available,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1975,,,,,,l: Not available,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1976,,,,,,l: Not available,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1977,,,,,,l: Not available,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1978,156.12,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1979,201.36,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1980,221.74,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1981,194.72,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1982,195.29,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1983,196.46,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1984,225.26,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1985,277.72,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1986,342.07,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1987,427.84,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1988,523.92,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1989,666.93,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1990,751.91,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1991,909.15,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1992,947.13,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1993,886.94,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1994,938.57,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1995,991.6,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1996,1083.94,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1997,1207.04,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1998,1405.48,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,1999,1522.01130078384,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2000,1564.04115238705,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2001,1791.26551134643,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2002,2112.76939716828,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2003,2573.16768612829,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2004,3138.346314,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2005,3675.400489,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2006,3907.310794,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2007,4189.133711,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2008,3717.580379,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2009,4236.159776,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2010,4958.7808074,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2011,4859.69816525,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2012,5234.10686811,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2013,4436.11,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2014,5277.74,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2015,5864.88975294,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2016,6643.03134033,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2017,6564.31389719,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2018,7825.08759584,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2019,8749.66518494,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2020,9723.78444623,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL01: Non promotors,A: Annual,2021,9164.73230849,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1974,,,,,,l: Not available,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1975,,,,,,l: Not available,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1976,,,,,,l: Not available,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1977,,,,,,l: Not available,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1978,29.1,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1979,31.16,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1980,11.75,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1981,6.79,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1982,9.17,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1983,5.06,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1984,65.1,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1985,16.16,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1986,14.77,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1987,22.43,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1988,34.26,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1989,59.54,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1990,150.15,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1991,190.33,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1992,135.6,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1993,103.82,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1994,101.46,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1995,106,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1996,79.05,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1997,56.37,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1998,77.81,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,1999,109.227099249131,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2000,115.644660454634,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2001,115.181208213902,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2002,191.307565,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2003,186.416077,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2004,251.259592,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2005,328.700588,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2006,466.9659,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2007,479.764216,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2008,261.210262,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2009,219.391402,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2010,135.827533,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2011,205.24944008,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2012,288.64293694,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2013,380.97,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2014,415.98,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2015,482.40528854,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2016,491.23957712,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2017,685.9755621,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2018,854.85013912,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2019,657.511033,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2020,962,,,,,,0: Zero
+LU1:DF_D4201(1.0),SSSL02: Promotors,A: Annual,2021,1213,,,,,,0: Zero
