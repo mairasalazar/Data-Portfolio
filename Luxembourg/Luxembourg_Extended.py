@@ -960,7 +960,7 @@ with st.container():
         st.write('''The inspiration for this dashboard was the [Data Analysis competition](https://www.pwc.lu/en/careers/data-analytics-challenge-2022.html) and
         by PWC Luxembourg. The questions we aim to answer here are: I) What are the recent trends of the Real Estate Market in Luxembourg and
         II) Where to invest in Real Estate in Luxembourg?
-        If this dashboard is something that interests you, feel free to check out the Git repo.''')
+        If this dashboard is something that interests you, feel free to check out the [Git repo](https://github.com/mairasalazar/Data-Portfolio).''')
     with col2_2:
         st.header("Where to invest in real estate in Luxembourg")
         st.write('''Differdange, Pedange, Dudelange and Sanem are promissing Communes. They have space for growth in terms of population
