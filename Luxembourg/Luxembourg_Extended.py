@@ -95,21 +95,21 @@ def treat_country(dataframe):
 # Load data on prices
 
 apart_sale_luxcity = pd.read_excel(Path(__file__).parents[1] / 'Luxembourg/Resources/announced-prices-apartments-luxembourg-city.xlsx')
-apart_rent_luxcity = pd.read_excel('./Resources/announced-rent-apartments-luxembourg-city.xlsx')
-house_sale_luxcity = pd.read_excel('./Resources/announced-prices-houses-luxembourg-city.xlsx')
-apart_sale_luxcountry = pd.read_excel('./Resources/registered-prices-apartements-by-commune.xlsx')
+apart_rent_luxcity = pd.read_excel(Path(__file__).parents[1] / 'Luxembourg/Resources/announced-rent-apartments-luxembourg-city.xlsx')
+house_sale_luxcity = pd.read_excel(Path(__file__).parents[1] / 'Luxembourg/Resources/announced-prices-houses-luxembourg-city.xlsx')
+apart_sale_luxcountry = pd.read_excel(Path(__file__).parents[1] / 'Luxembourg/Resources/registered-prices-apartements-by-commune.xlsx')
 
 # Load data on population
-total_population = pd.read_csv("./Resources/evolution_total_population.csv")
-migration = pd.read_csv("./Resources/migration_population_canton_municipality.csv")
-population_canton_mun = pd.read_csv("./Resources/population_canton_municipality.csv")
-population_density = pd.read_csv("./Resources/population_density_canton_municipality.csv")
+total_population = pd.read_csv(Path(__file__).parents[1] / "Luxembourg/Resources/evolution_total_population.csv")
+migration = pd.read_csv(Path(__file__).parents[1] / "Luxembourg/Resources/migration_population_canton_municipality.csv")
+population_canton_mun = pd.read_csv(Path(__file__).parents[1] / "Luxembourg/Resources/population_canton_municipality.csv")
+population_density = pd.read_csv(Path(__file__).parents[1] / "Luxembourg/Resources/population_density_canton_municipality.csv")
 
 # Load lending data
-lending = pd.read_csv("./Resources/lending_purchase_houses_millionsEUR.csv")
+lending = pd.read_csv(Path(__file__).parents[1] / "Luxembourg/Resources/lending_purchase_houses_millionsEUR.csv")
 
 # Load Finished Buildings data
-buildings = pd.read_csv("./Resources/finished-buildings.csv")
+buildings = pd.read_csv(Path(__file__).parents[1] / "Luxembourg/Resources/finished-buildings.csv")
 
 # ### Treat and analyse prices
 
