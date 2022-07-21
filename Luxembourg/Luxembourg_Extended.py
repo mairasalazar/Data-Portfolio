@@ -9,6 +9,8 @@ import plotly.express as px
 import os.path
 import streamlit as st
 from plotly.graph_objects import Layout
+from pathlib import Path
+
 
 st.set_page_config(layout="wide", page_title="Luxembourg Real Estate", page_icon=":house:")
 # Use treat_luxcity to clean issues identified through previous exploration, such as use of asterisk to symbolize NA values, data types that didn't match (numbers as strings, for example) and spelling errors.
@@ -91,7 +93,8 @@ def treat_country(dataframe):
 
 
 # Load data on prices
-apart_sale_luxcity = pd.read_excel('/Luxembourg/Resources/announced-prices-apartments-luxembourg-city.xlsx')
+
+apart_sale_luxcity = pd.read_excel(Path(__file__).parents[1] / 'Resources/announced-prices-apartments-luxembourg-city.xlsx')
 apart_rent_luxcity = pd.read_excel('./Resources/announced-rent-apartments-luxembourg-city.xlsx')
 house_sale_luxcity = pd.read_excel('./Resources/announced-prices-houses-luxembourg-city.xlsx')
 apart_sale_luxcountry = pd.read_excel('./Resources/registered-prices-apartements-by-commune.xlsx')
