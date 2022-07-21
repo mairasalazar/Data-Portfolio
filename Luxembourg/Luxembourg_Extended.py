@@ -91,7 +91,10 @@ def treat_country(dataframe):
 
 
 # Load data on prices
-
+apart_sale_luxcity = pd.read_excel('/Luxembourg/Resources/announced-prices-apartments-luxembourg-city.xlsx')
+apart_rent_luxcity = pd.read_excel('./Resources/announced-rent-apartments-luxembourg-city.xlsx')
+house_sale_luxcity = pd.read_excel('./Resources/announced-prices-houses-luxembourg-city.xlsx')
+apart_sale_luxcountry = pd.read_excel('./Resources/registered-prices-apartements-by-commune.xlsx')
 
 # Load data on population
 total_population = pd.read_csv("./Resources/evolution_total_population.csv")
