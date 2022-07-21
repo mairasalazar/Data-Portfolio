@@ -91,22 +91,22 @@ def treat_country(dataframe):
 
 
 # Load data on prices
-apart_sale_luxcity = pd.read_excel('C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/announced-prices-apartments-luxembourg-city.xlsx')
-apart_rent_luxcity = pd.read_excel('C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/announced-rent-apartments-luxembourg-city.xlsx')
-house_sale_luxcity = pd.read_excel('C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/announced-prices-houses-luxembourg-city.xlsx')
-apart_sale_luxcountry = pd.read_excel('C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/registered-prices-apartements-by-commune.xlsx')
+apart_sale_luxcity = pd.read_excel('https://github.com/mairasalazar/Data-Portfolio/blob/master/Luxembourg/Resources/announced-prices-apartments-luxembourg-city.xlsx?raw=true')
+apart_rent_luxcity = pd.read_excel('https://github.com/mairasalazar/Data-Portfolio/blob/master/Luxembourg/Resources/announced-rent-apartments-luxembourg-city.xlsx?raw=true')
+house_sale_luxcity = pd.read_excel('https://github.com/mairasalazar/Data-Portfolio/blob/master/Luxembourg/Resources/announced-prices-houses-luxembourg-city.xlsx?raw=true')
+apart_sale_luxcountry = pd.read_excel('https://github.com/mairasalazar/Data-Portfolio/blob/master/Luxembourg/Resources/registered-prices-apartements-by-commune.xlsx?raw=true')
 
 # Load data on population
-total_population = pd.read_csv("C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/evolution_total_population.csv")
-migration = pd.read_csv("C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/migration_population_canton_municipality.csv")
-population_canton_mun = pd.read_csv("C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/population_canton_municipality.csv")
-population_density = pd.read_csv("C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/population_density_canton_municipality.csv")
+total_population = pd.read_csv("https://github.com/mairasalazar/Data-Portfolio/raw/master/Luxembourg/Resources/evolution_total_population.csv")
+migration = pd.read_csv("https://github.com/mairasalazar/Data-Portfolio/raw/master/Luxembourg/Resources/migration_population_canton_municipality.csv")
+population_canton_mun = pd.read_csv("https://github.com/mairasalazar/Data-Portfolio/raw/master/Luxembourg/Resources/population_canton_municipality.csv")
+population_density = pd.read_csv("https://github.com/mairasalazar/Data-Portfolio/raw/master/Luxembourg/Resources/population_density_canton_municipality.csv")
 
 # Load lending data
-lending = pd.read_csv("C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/lending_purchase_houses_millionsEUR.csv")
+lending = pd.read_csv("https://github.com/mairasalazar/Data-Portfolio/raw/master/Luxembourg/Resources/lending_purchase_houses_millionsEUR.csv")
 
 # Load Finished Buildings data
-buildings = pd.read_csv("C:/Users/mpssa/Documents/Data Portfolio/Luxembourg/Resources/finished-buildings.csv")
+buildings = pd.read_csv("https://github.com/mairasalazar/Data-Portfolio/raw/master/Luxembourg/Resources/finished-buildings.csv")
 
 # ### Treat and analyse prices
 
