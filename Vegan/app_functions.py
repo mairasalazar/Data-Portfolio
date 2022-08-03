@@ -187,8 +187,12 @@ def dates_article(df):
         return {'month_year': f"{calendar.month_name[max_month_year[0][1]]} {max_month_year[0][0]}"}
     
     def popular_year(df):
-        year = df.groupby(pd.to_datetime(df['Date']).dt.year).Link.nunique().to_frame()
-        return {'year': year[year.Link==year.Link.max()].index.item()}
+        years = df.groupby(pd.to_datetime(df['Date']).dt.year).Link.nunique().to_frame()
+        year = years[years.Link==years.Link.max()].index
+        if len(year) == 1:
+            return {'year': year.item()}
+        else:
+            return {'year': str(year.to_list())[1:-1]}
     
     df = df.sort_values(by=['Date'], ascending=True)
     df = df.reset_index(drop=True)

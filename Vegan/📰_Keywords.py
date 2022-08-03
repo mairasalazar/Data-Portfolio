@@ -107,7 +107,7 @@ with st.container():
             text = create_text(input_df, 'Text')
         else:
             text = create_text(input_df, 'Title')    
-        stopwords = set(STOPWORDS)
+        stopwords = set(STOPWORDS) | set('s')
         stopwords_input = st.text_input('Type words to be excluded, separated by commas.',
                                             help='If you want any extra words to be excluded from the wordcloud, type them here. If not, leave the field blank.') 
         stopwords_list = [word.strip() for word in stopwords_input.split(',')]
