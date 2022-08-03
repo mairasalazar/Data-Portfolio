@@ -13,6 +13,7 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import country_converter as coco
 import datetime
+from pathlib import Path
 
 # Custom library
 from app_functions import create_df_keywords, dates_article
@@ -52,7 +53,7 @@ col1, col2, col3 = st.columns((1,3,1))
 with col1:
     st.write('')
 with col2:
-    title_image = Image.open("./data/header_christina-deravedisian-unsplash.jpg")
+    title_image = Image.open(Path(__file__).parents[1] / 'Vegan/resources/header_christina-deravedisian-unsplash.jpg')
     st.image(title_image)
 with col3:
     st.write('')
