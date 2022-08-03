@@ -60,6 +60,7 @@ with col1:
 with col2:
     title_image = Image.open(Path(__file__).parents[1] / 'Vegan/resources/header_christina-deravedisian-unsplash.jpg')
     st.image(title_image)
+    st.write("")
 with col3:
     st.write('')
 st.write('')
@@ -80,8 +81,19 @@ with st.container():
             st.markdown("Here is a sample of articles containing your keyword(s):")
             x = min([10, len(input_df)])
             input_df_original = news[news.index.isin(input_df.index.to_list())]
-            st.dataframe(input_df_original.sample(x))
+            df_display = input_df_original.sample(x).reset_index(drop=True)
+            st.dataframe(df_display)
             st.write(f'There are {len(input_df)} articles containing your keyword(s): {st.session_state["fill_kws"]}.')
+            st.write("You can download a CSV file with all these articles containing your keywords 👇")
+            csv = input_df_original.to_csv(index=False).encode('utf-8')
+            st.download_button(
+                "Download articles as CSV",
+                csv,
+                "articles.csv",
+                "text/csv",
+                key='articles-data'
+            )
+            
         else:
             st.write('Sorry, it seems like this word does not appear in the articles we have.')
 
@@ -94,14 +106,14 @@ with st.container():
         if where_to_look_wordcloud == "Articles' text":
             text = create_text(input_df, 'Text')
         else:
-            text = create_text(input_df, 'Text')    
+            text = create_text(input_df, 'Title')    
         stopwords = set(STOPWORDS)
         stopwords_input = st.text_input('Type words to be excluded, separated by commas.',
                                             help='If you want any extra words to be excluded from the wordcloud, type them here. If not, leave the field blank.') 
-        stopwords_list = stopwords_input.split(",")
+        stopwords_list = [word.strip() for word in stopwords_input.split(',')]
         stopwords.update(stopwords_list)
         try:
-            wordcloud = WordCloud(stopwords=stopwords, width=800, height=400, colormap='G').generate(text)
+            wordcloud = WordCloud(stopwords=stopwords, width=800, height=400, colormap='GnBu').generate(text)
             # Display the generated image:
             fig_cloud, ax = plt.subplots()
             ax.imshow(wordcloud, interpolation='bilinear')

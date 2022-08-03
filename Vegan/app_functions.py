@@ -150,7 +150,7 @@ def create_df_keywords(keywords_input, df_lower):
                     input_df (DataFrame)
     '''
     keywords_input = keywords_input.lower()
-    keywords_list = keywords_input.split(",")
+    keywords_list = [word.strip() for word in keywords_input.split(',')]
     input_df = df_lower[df_lower.Text.str.contains('|'.join(keywords_list))==True]
     return input_df
 
