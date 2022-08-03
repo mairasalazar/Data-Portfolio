@@ -6,3 +6,4 @@ Pillow==9.2.0
 plotly==5.9.0
 streamlit==1.11.1
 wordcloud==1.8.2.2
+pathlib

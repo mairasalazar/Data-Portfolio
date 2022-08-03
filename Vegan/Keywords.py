@@ -8,6 +8,8 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import matplotlib.pyplot as plt
 import streamlit as st
 import country_converter as coco
+from pathlib import Path
+
 
 # Custom library
 from app_functions import create_df_countries, create_map, load_data, create_text, countries, create_df_keywords
@@ -36,7 +38,7 @@ with st.sidebar:
     enter = st.button("Let's do it!", key='submit_kws', on_click=change_value)
 
 # Load dataset
-news = pd.read_csv('Vegan_Articles.csv')
+news = pd.read_csv(Path(__file__).parents[1] / 'Vegan/Vegan_Articles.csv')
 news['Date'] = pd.to_datetime(news['Date'], format="%m/%d/%Y")
 news_lower = news.apply(lambda x: x.astype(str).str.lower())
 news_lower['Date'] = pd.to_datetime(news_lower['Date'], format="%Y/%m/%d")
@@ -63,7 +65,7 @@ with col3:
 st.write('')
 st.markdown("An exploration of vegan news in the past 5 years, looking at keywords and the evolution of their use.")
 st.markdown("""This app is a way to explore the [Vegan News dataset](https://www.kaggle.com/datasets/adrinlandaverdenava/vegan-news).
-For more information, visit the GitHub repo or drop me a message on [LinkedIn](https://www.linkedin.com/in/maira-salazar/).""")
+For more information, visit the [GitHub repo](https://github.com/mairasalazar/Data-Portfolio/tree/master/Vegan) or drop me a message on [LinkedIn](https://www.linkedin.com/in/maira-salazar/).""")
 st.write('')
 
 # Main app
