@@ -1,6 +1,3 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/maira-salazar/]
-
-<br />
 <div align="center">
 
 <h3 align="center">Data Portfolio</h3>
@@ -87,7 +84,9 @@ Just go to the Streamlit app at [https://mairasalazar-data-portfoli-luxembourglu
 
 Maira Salazar - [@Linkedin](https://www.linkedin.com/in/maira-salazar/) - [Website](https://www.mairasalazar.com)
 
-Data Portfolio: [https://github.com/mairasalazar/Data-Portfolio/tree/master/Vegan](https://github.com/mairasalazar/Data-Portfolio/tree/master/Vegan)
+Vegan News: [https://github.com/mairasalazar/Data-Portfolio/tree/master/Vegan](https://github.com/mairasalazar/Data-Portfolio/tree/master/Vegan)
+Luxembourg Real Estate: [https://github.com/mairasalazar/Data-Portfolio/tree/master/Luxembourg](https://github.com/mairasalazar/Data-Portfolio/tree/master/Luxembourg)
+Data Portfolio: [https://github.com/mairasalazar/Data-Portfolio/](https://github.com/mairasalazar/Data-Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,6 +96,7 @@ Data Portfolio: [https://github.com/mairasalazar/Data-Portfolio/tree/master/Vega
 ## Acknowledgments
 
 * [Vegan News dataset](https://www.kaggle.com/datasets/adrinlandaverdenava/vegan-news)
+* [Data Analytics Challenge by PWC](https://www.pwc.lu/en/careers/data-analytics-challenge-2022.html)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
