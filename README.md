@@ -85,7 +85,9 @@ Just go to the Streamlit app at [https://mairasalazar-data-portfoli-luxembourglu
 Maira Salazar - [@Linkedin](https://www.linkedin.com/in/maira-salazar/) - [Website](https://www.mairasalazar.com)
 
 Vegan News: [https://github.com/mairasalazar/Data-Portfolio/tree/master/Vegan](https://github.com/mairasalazar/Data-Portfolio/tree/master/Vegan)
+
 Luxembourg Real Estate: [https://github.com/mairasalazar/Data-Portfolio/tree/master/Luxembourg](https://github.com/mairasalazar/Data-Portfolio/tree/master/Luxembourg)
+
 Data Portfolio: [https://github.com/mairasalazar/Data-Portfolio/](https://github.com/mairasalazar/Data-Portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
