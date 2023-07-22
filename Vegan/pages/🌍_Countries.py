@@ -75,7 +75,7 @@ with st.container():
             df_countries = create_df_countries(input_df, 'Text')
         else:
             df_countries = create_df_countries(input_df, 'Title')
-        st.dataframe(df_countries[['Country', 'Number of times']].head(10))
+        st.dataframe(df_countries[['Country', 'Number of times']].head(10), hide_index=True)
     with col2_2:
         # See how many times a specific country was mentioned
         country_input = st.selectbox(label = 'What country do you want to check?', options = countries(with_abbreviations=False), help='Pick a country to see how many times it was mentioned.')

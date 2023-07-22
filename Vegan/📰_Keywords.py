@@ -64,7 +64,7 @@ with col2:
 with col3:
     st.write('')
 st.write('')
-st.markdown("An exploration of vegan news in the past 5 years, looking at keywords and the evolution of their use.")
+st.markdown("An exploration of vegan news in the past 5 years (up to 2021), looking at keywords and the evolution of their use.")
 st.markdown("""This app is a way to explore the [Vegan News dataset](https://www.kaggle.com/datasets/adrinlandaverdenava/vegan-news).
 For more information, visit the [GitHub repo](https://github.com/mairasalazar/Data-Portfolio/tree/master/Vegan) or drop me a message on [LinkedIn](https://www.linkedin.com/in/maira-salazar/).""")
 st.write('')
@@ -82,7 +82,7 @@ with st.container():
             x = min([10, len(input_df)])
             input_df_original = news[news.index.isin(input_df.index.to_list())]
             df_display = input_df_original.sample(x).reset_index(drop=True)
-            st.dataframe(df_display)
+            st.dataframe(df_display, hide_index=True)
             st.write(f'There are {len(input_df)} articles containing your keyword(s): {st.session_state["fill_kws"]}.')
             st.write("You can download a CSV file with all these articles containing your keywords 👇")
             csv = input_df_original.to_csv(index=False).encode('utf-8')

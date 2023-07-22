@@ -1,9 +1,9 @@
-country_converter==0.7.4
+country_converter==1.0.0
 matplotlib==3.5.2
 numpy==1.23.1
 pandas==1.4.3
 Pillow==9.2.0
 plotly==5.9.0
-streamlit==1.11.1
+streamlit==1.25.0
 wordcloud==1.8.2.2
 pathlib
